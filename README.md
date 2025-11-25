@@ -12,7 +12,7 @@
 ```javascript
 const antonella = {
     pronouns: "She" | "Her",
-    code: ["HTML", "JavaScript", "React", "CSS", "SASS"],
+    code: ["HTML", "JavaScript", "Typescript", "React", "Angular", "CSS", "SASS", "PHP", "Laravel"],
     askMeAbout: ["web dev", "tech", "app dev", "web design"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
